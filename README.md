@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @darshit011
 - 👀 I’m interested in Web Development, Python & Cyber Security
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+<!---- 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me darshitprajapati11@yahoo.com
 
 <!---
